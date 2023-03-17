@@ -1,0 +1,26 @@
+{
+  "name": "campo-de-valida-o",
+  "version": "1.0.0",
+  "description": "validação",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielSilvaCosta/campo-de-valida-o.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielSilvaCosta/campo-de-valida-o/issues"
+  },
+  "homepage": "https://github.com/GabrielSilvaCosta/campo-de-valida-o#readme",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.8.3",
+    "validator": "^13.9.0",
+    "vite": "^4.2.0"
+  }
+}
